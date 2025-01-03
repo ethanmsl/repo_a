@@ -9,7 +9,7 @@ J_VAR:='words, words, words'
 
 
 
-
+# this is an invisible default
 _default:
     just --list
 
