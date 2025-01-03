@@ -6,3 +6,6 @@
 5 : so twice five miles of fertile ground
 6 : with towers and towers were gilded round
 7 : and there were gardens bright with sinuous rills
+8 : then reached the caverns measurelss to man
+9 : and sank in tumult to a lifeless sea
+10 : and 'mid this tumult kubla heard from far
