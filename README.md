@@ -1,5 +1,6 @@
 Testing  Unrelated Histories merge, with local repos
 
+note "remote_repo" can also be a local path to another git repo
 ```zsh
 REMOTE_REPO='{{replace_me: remote_repo}}'
 LOCAL_ALIAS='{{replace_me: local_remote_alias}}'
