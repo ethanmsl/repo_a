@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 0 : in xanadu did kubla khan
 1 : a stately pleasure dome decree
 2 : where alph the sacred river ran
@@ -9,3 +10,4 @@
 8 : then reached the caverns measurelss to man
 9 : and sank in tumult to a lifeless sea
 10 : and 'mid this tumult kubla heard from far
+11 : I would build that dome in air
