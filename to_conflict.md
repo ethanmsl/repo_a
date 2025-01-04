@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 0 : in xanadu did kubla khan
 1 : a stately pleasure dome decree
 2 : where alph the sacred river ran
@@ -12,5 +11,5 @@
 10 : and 'mid this tumult kubla heard from far
 11 : I would build that dome in air
 12 : his flashing eyes, his floating hair
-13 : wave a circle round him thrice
+13 : weave a circle round him thrice
 14 : and close your eyes with holy dread
