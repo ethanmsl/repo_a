@@ -10,3 +10,6 @@
 9  : in a vision I once saw
 10 : that with music loud and long
 11 : I would build that dome in air
+12 : his flashing eyes, his floating hair
+13 : wave a circle round him thrice
+14 : and close your eyes with holy dread
