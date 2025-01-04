@@ -11,3 +11,6 @@
 9 : and sank in tumult to a lifeless sea
 10 : and 'mid this tumult kubla heard from far
 11 : I would build that dome in air
+12 : his flashing eyes, his floating hair
+13 : wave a circle round him thrice
+14 : and close your eyes with holy dread
